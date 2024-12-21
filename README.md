@@ -1,11 +1,11 @@
-# 👋 Hello, I'm Kauã Will! 
+# 👋 Hello, I'm Kauã Willams! 
 [![GitHub followers](https://img.shields.io/github/followers/kauawilldm?style=social)](https://github.com/kauawilldm) 
 [![Profile Views](https://komarev.com/ghpvc/?username=kauawilldm&color=blue)](https://github.com/kauawilldm)
 
 ## 🛠️ About Me
-- 🎓 Studying Software Engineering at [Your Institution].
-- 🌱 Currently learning **[Technologies you're learning]**.
-- 🚀 Passionate about **[Your Interests, like AI, Web Dev, etc.]**.
+- 🎓 Studying Software Engineering at Jala University.
+- 🌱 Currently learning C#,NET, Typescript.
+- 🚀 Passionate about like AI, Web Dev.
 
 ## 💻 Technologies & Tools
 ![Java](https://img.shields.io/badge/Code-Java-007396?logo=java&logoColor=white)
@@ -28,9 +28,6 @@ Another amazing project description.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauawilldm&layout=compact&theme=radical)
 
 ## 🌐 Find Me
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-linkedin)
+- LinkedIn: https://www.linkedin.com/in/kaua-willams/
 - Portfolio: [Your Portfolio](https://yourportfolio.com)
-- Email: [your-email@example.com](mailto:your-email@example.com)
-
----
-💡 *"Your motivational quote here!"*
+- Email: kauanwillams098@gmail.com
