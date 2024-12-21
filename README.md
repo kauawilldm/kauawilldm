@@ -1,9 +1,9 @@
-# 👋 Hello, I'm [Seu Nome]! 
-[![GitHub followers](https://img.shields.io/github/followers/seu-username?style=social)](https://github.com/seu-username) 
-[![Profile Views](https://komarev.com/ghpvc/?username=seu-username&color=blue)](https://github.com/seu-username)
+# 👋 Hello, I'm Kauã Will! 
+[![GitHub followers](https://img.shields.io/github/followers/kauawilldm?style=social)](https://github.com/kauawilldm) 
+[![Profile Views](https://komarev.com/ghpvc/?username=kauawilldm&color=blue)](https://github.com/kauawilldm)
 
 ## 🛠️ About Me
-- 🎓 Studying [Your Field] at [Your University].
+- 🎓 Studying Software Engineering at [Your Institution].
 - 🌱 Currently learning **[Technologies you're learning]**.
 - 🚀 Passionate about **[Your Interests, like AI, Web Dev, etc.]**.
 
@@ -15,17 +15,17 @@
 ![Git](https://img.shields.io/badge/Tools-Git-F05032?logo=git&logoColor=white)
 
 ## 🌟 Featured Projects
-### 📦 [Project 1](https://github.com/seu-username/project-1)
+### 📦 [Project 1](https://github.com/kauawilldm/project-1)
 A brief description of the project.  
 **Tech Stack**: Java, Spring Boot, MySQL.
 
-### 🕵️ [Project 2](https://github.com/seu-username/project-2)
+### 🕵️ [Project 2](https://github.com/kauawilldm/project-2)
 Another amazing project description.  
 **Tech Stack**: React, Node.js, MongoDB.
 
 ## 📈 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kauawilldm&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauawilldm&layout=compact&theme=radical)
 
 ## 🌐 Find Me
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-linkedin)
